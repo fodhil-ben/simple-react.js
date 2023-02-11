@@ -1,4 +1,3 @@
-// src/Table.jsx
 import React from 'react'
 import { useEffect } from 'react'
 
@@ -71,5 +70,3 @@ const TableBody = ({employeeData, removeEmployee}) => {
   };
 
 export default Table
-
-///fghjkl;lkjhgffghjkl
